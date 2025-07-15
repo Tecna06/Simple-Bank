@@ -1,3 +1,5 @@
+                    # MİNİ BANK PROJECT FOR PYTHON BEGİNNERS ^^
+
 # 1: Get name and balance information from user
 name = input("Your name: ")
 balance = float(input("Enter your starting balance: "))
